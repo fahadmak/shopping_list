@@ -1,0 +1,55 @@
+nav.uk-navbar.size {
+    margin: auto;
+    height: 58px;
+    background-color: #dc4747;
+}
+
+.uk-navbar {
+    background: #d44848;
+    color: #666;
+    border: 1px solid rgba(0,0,0,.1);
+    border-bottom-color: rgba(0,0,0,.3);
+    border-radius: 4px;
+    background-origin: border-box;
+    /* background-image: -webkit-linear-gradient(top,#fff,#eee); */
+    /* background-image: linear-gradient(to bottom,#fff,#eee); */
+}
+span.uk-form-help-inline {
+    color: white;
+    font-family: Proxima Nova;
+}
+.uk-form-row {
+    position: relative;
+    left: 700px;
+}
+article.uk-article {
+    position: relative;
+    top: 120px;
+    left: 111px;
+}
+h1.uk-article-title {
+    font-family: Myriad Pro;
+    font-weight: bold;
+    font-size: 44px;
+}
+p.uk-article-meta {
+    position: relative;
+    top: -20px;
+    font-family: Myriad Pro;
+    font-size: 21px;
+}
+form.uk-form.uk-form-stacked {
+    position: relative;
+    left: 286px;
+}
+label.uk-form-label {
+    position: relative;
+    top: -9px;
+}
+
+label.uk-form-label {
+    font-family: Roboto;
+    font-weight: 500;
+    position: relative;
+    top: -13px;
+}
